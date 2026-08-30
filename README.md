@@ -5,7 +5,8 @@ pipeline looking for energy sector this quarter?") by querying live
 monday.com data across two boards: **Deal Funnel** (sales pipeline) and
 **Work Order Tracker** (project execution & billing).
 
-**Live demo:** _add your deployed Streamlit URL here before submitting_
+**Live demo:** _https://skylar-bi-agent-mtxw3zhadx9dranffadiwg.streamlit.app/_
+
 
 Built end-to-end on **free tiers only** — Google Gemini API (no credit
 card), monday.com free plan, GitHub, and Streamlit Community Cloud.
