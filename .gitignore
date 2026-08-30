@@ -1,0 +1,7 @@
+﻿.streamlit/secrets.toml
+venv/
+__pycache__/
+*.pyc
+
+Deal_Funnel_cleaned.csv
+Work_Order_Tracker_cleaned.csv
